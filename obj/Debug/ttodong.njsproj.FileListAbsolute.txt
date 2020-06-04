@@ -1,0 +1,3 @@
+C:\Users\minisoft\source\repos\ttodong\obj\Debug\ttodong.njsprojAssemblyReference.cache
+C:\Users\minisoft\source\repos\ttodong\obj\Debug\ttodong.njsproj.CoreCompileInputs.cache
+C:\Users\minisoft\source\repos\ttodong\bin\Microsoft.NodejsTools.WebRole.dll
